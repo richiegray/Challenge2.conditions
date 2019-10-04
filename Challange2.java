@@ -1,9 +1,9 @@
 
-package challange2;
+package challenge2;
 
 
 import java.util.Scanner;
-public class Challange2 {
+public class Challenge2 {
 
     
     public static void main(String[] args) {
